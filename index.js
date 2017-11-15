@@ -4,5 +4,5 @@ this.homeState = homeState
 this.training = training
 }
 BoardMember.prototype.name = function() {
-  return ''
+  return 'No, I must disagree'
 }
