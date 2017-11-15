@@ -3,8 +3,7 @@ this.name = name
 this.homeState = homeState
 this.training = training
 }
-BoardMember.prototype.name = function() {
-  return 'No, I must disagree';
-};
+
+
 
 
